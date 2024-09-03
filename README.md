@@ -1,4 +1,4 @@
-# Microsoft 365 Fundamentals Exercises
+# Microsoft 365 Fundamentals
 
 This repository contains instructions and assets for hands-on exercises in the Microsoft Official Courseware to support the [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/) certification. The demos exercises are designed by MCTs to complement the associated training modules on [Microsoft Learn](https://learn.microsoft.com/training), and a <u>subset</u> of these exercises comprises the hands-on labs in the official [MS-900: Microsoft 365 Fundamentals](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/?terms=MS-900) instructor-led training course.
 
